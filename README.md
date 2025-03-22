@@ -1,12 +1,27 @@
-# React + Vite
+🎮 Axa Rajandrya - Game Developer
+🚀 Game Developer | 2D & 3D Artist
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my game development portfolio! This repository showcases my work in game design, programming, and asset creation, covering everything from core mechanics to visual elements.
 
-Currently, two official plugins are available:
+🛠️ Skills & Tools
+✅ Game Engines: Unity, Unreal Engine
+✅ Programming: C# (Unity), Blueprint & C++ (Unreal Engine)
+✅ Game Mechanics & System Development
+✅ AI & Physics for Games
+✅ Level Design & World Building
+✅ 2D & 3D Asset Creation: Blender, Krita, Piskel
+✅ Animation & Visual Effects
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📂 What's Inside?
+🎮 Game Prototypes – Playable demos and mechanics experiments
+🛠️ Gameplay Scripts – AI, player controls, physics interactions
+🎨 Custom Assets – 2D sprites, 3D models, environments
+🎬 Game Animations – Character animations & visual effects
 
-## Expanding the ESLint configuration
+🚀 Let’s Connect!
+🌐 Portfolio: [Your Website (if any)]
+📧 Email: axarajand@gmail.com
+🎮 Itch.io: [Your Itch.io]
+🐦 Twitter: [Your Twitter]
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Let’s create immersive and engaging games together! 🎮🔥
